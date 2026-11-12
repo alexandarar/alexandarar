@@ -17,6 +17,3 @@ I'm a Senior AI & Software Engineer with 7+ years of experience building healthc
 
 ### 🎯 Interests
 Healthcare AI, LLM applications, AI agents, medical data analysis, and intelligent automation.
-
-### 📫 Connect With Me
-[LinkedIn](https://www.linkedin.com/in/aleksandar-mladenovic-9401a6413/)
